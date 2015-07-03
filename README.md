@@ -2,7 +2,7 @@
 Haskell is a purely-functional language, statically, implicitly typed, lazy.
 
 #### Purely Functional
-So in purely functional languages, a function has no side-effects. The only thing a function can do is calculate something and return it as a result. If you say that a variable a is equals to 8, we cannot say later that a is equals to 10. So, there is liars on Purely Functional languages. That is called referential transparency. We may think it's a limiting, but let us thinkg better about that: if a functional always return the same thing, we can deduce things better and also we can create complex things by gluing simple functions together. It's more easy to test if we have those.
+So in purely functional languages, a function has no side-effects. The only thing a function can do is calculate something and return it as a result. If you say that a variable a is equals to 8, we cannot say later that a is equals to 10. So, there is no liars on Purely Functional languages. That is called referential transparency. We may think it's a limiting, but let us thinkg better about that: if a functional always return the same thing, we can deduce things better and also we can create complex things by gluing simple functions together. It's more easy to test if we have those.
 
  - Referential Transparency (From Wikipédia)
 
