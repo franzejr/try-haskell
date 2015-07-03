@@ -12,6 +12,19 @@ Referential transparency is one of the principles of functional programming; onl
 
 #### Lazy
 
+#### Statically
+
+#### Implicitily typed
+
+### Everything is an object? What now ?
+
+Most software developers are familiar with the OOP concepts, such as "everything is an object". Classes are a primary way to hiding implementation details and also a handy way to group related functionalities together. Haskell provides other solutions for these problems. So, when we have a classes we have the following features:
+- Type with several representations
+- Packing data & functions together
+- Hiding implementation details
+- Grouping related functionality
+
+Let's see how Haskell can do those things for us.
 
 
 
